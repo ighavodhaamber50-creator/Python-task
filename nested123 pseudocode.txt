@@ -1,0 +1,5 @@
+🧠 Big Picture (Simple Explanation)
+Outer loop (row) controls how many lines
+Inner loop (col) controls what numbers print on each line
+print(col, end=" ") keeps numbers on the same line
+print() moves to the next line

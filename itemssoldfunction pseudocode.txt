@@ -1,0 +1,29 @@
+Set total_sales to 0
+
+Ask user how many items were sold
+
+Repeat for each item sold
+
+    Enter item number
+
+    If item number is 1
+        Add 239.99 to total_sales
+
+    If item number is 2
+        Add 129.75 to total_sales
+
+    If item number is 3
+        Add 99.95 to total_sales
+
+    If item number is 4
+        Add 350.89 to total_sales
+
+End Repeat
+
+commission = 9 percent of total_sales
+
+earnings = 200 + commission
+
+Display total_sales
+
+Display earnings

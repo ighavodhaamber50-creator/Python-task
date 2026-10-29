@@ -1,0 +1,22 @@
+Create a function called calculate_tax
+
+    If earnings is less than or equal to 30000
+        Tax = 15% of earnings divided by 100
+    Otherwise
+        Tax = 20% of earnings divided by 100
+
+    Return tax
+
+Repeat 3 times
+
+    Ask the user to enter the citizen's name
+
+    Ask the user to enter the citizen's earnings
+
+    Calculate the tax using the function
+
+    Display the citizen's name
+
+    Display the tax
+
+NOW TO END THE REPEAT

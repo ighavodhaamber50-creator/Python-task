@@ -1,0 +1,5 @@
+Set the principal to 1000 and the rate to 7%
+
+Calculate the amount after 10, 20 and 30 years using the investment formula
+
+Then display the results for each year

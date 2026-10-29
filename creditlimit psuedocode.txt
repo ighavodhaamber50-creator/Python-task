@@ -1,0 +1,27 @@
+Ask user how many customers there are
+
+Repeat for each customer
+
+    Enter account number
+
+    Enter beginning balance
+
+    Enter total charges
+
+    Enter total credits
+
+    Enter credit limit
+
+    Calculate new balance
+
+    Display account number
+
+    Display new balance
+
+    If new balance is greater than credit limit
+
+        Display "Credit limit exceeded"
+
+    End If
+
+End Repeat

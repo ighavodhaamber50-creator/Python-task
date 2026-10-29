@@ -1,0 +1,6 @@
+Ask the user to enter 10 numbers one by one
+Store the first number as the minimum
+Compare each new number with the current minimum
+If the new number is smaller, update the minimum
+Display the minimum number
+

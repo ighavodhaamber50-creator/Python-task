@@ -1,0 +1,22 @@
+Understanding the Question
+
+A salesperson earns:
+
+A fixed salary of 200 per week.
+Plus 9% commission on total sales.
+
+The item values are:
+
+Item	Price
+1	239.99
+2	129.75
+3	99.95
+4	350.89
+
+The program should:
+
+Ask which items the salesperson sold.
+Add up the value of all items sold.
+Calculate commission (9% of total sales).
+Add 200 to the commission.
+Display the earnings.

@@ -1,0 +1,16 @@
+3.29 - Problem with the Median
+For an even number of values you average the two middle numbers. The problem is if those two middle values are very different from each other — for example 5 and 95 — the median would be 50 which doesnt really represent the data well.
+
+3.30 - Outliers
+
+Mean is most affected — one extremely large or small value pulls the average dramatically
+Median is least affected — it only looks at the middle value so edge values dont matter much
+Mode is not affected at all — it just counts which value appears most often
+
+
+3.31 - Categorical Data
+For categorical data like dog breeds (Boxer, Poodle, Collie):
+
+Mode ✅ works — you can count which breed appears most often
+Mean ❌ does not work — you cannot add up breed names
+Median ❌ does not work — you cannot arrange breed names in a meaningful order

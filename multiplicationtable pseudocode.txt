@@ -1,0 +1,6 @@
+Ask the user to enter a number
+
+Repeat 10 times:
+Multiply the number by the current counting number
+Display the multiplication statement and result
+Increase the counting number by 1

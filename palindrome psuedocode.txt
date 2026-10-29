@@ -1,0 +1,6 @@
+Ask user to enter a 5 digit number
+Separate each digit using // and %
+Check if digit 1 matches digit 5
+Check if digit 2 matches digit 4
+If both match, it is a palindrome, otherwise it is not
+Display the result
